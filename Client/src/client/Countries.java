@@ -42,7 +42,7 @@ public class Countries
         return countries;
     }
     
-    // This method is used to add new countries.
+    // This method is used to add new countries
     public boolean addCountry(Country country) 
     {
         return countries.add(country);

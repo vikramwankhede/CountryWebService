@@ -33,7 +33,7 @@ public class Country
         this.countryName = countryName;
     }
 
-    // Getter method of country name
+    // Getter method for country name
     public String getCountryName() {
         return countryName;
     }
